@@ -8,5 +8,6 @@
 <body>
     <h1>aqui iria el titulo de la página</h1>
     <p>esto es un parrafo</p>
+    <p>esto es un segundo parrafo creado desde visual studio code, el otro se creó desde github</p>
 </body>
 </html>
